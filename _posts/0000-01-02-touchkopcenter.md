@@ -1,1 +1,6 @@
-Hi  this is my first lesson of github
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
